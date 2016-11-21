@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For Massenger
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+AsciiMassenger	KEYWORD1
+Massenger	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+receive	KEYWORD2
+flush	KEYWORD2
+dispatch	KEYWORD2
+nextByte	KEYWORD2
+nextInt	KEYWORD2
+nextLong	KEYWORD2
+nextFloat	KEYWORD2
+nextDouble	KEYWORD2
+sendBegin	KEYWORD2
+sendByte	KEYWORD2
+sendInt	KEYWORD2
+sendLong	KEYWORD2
+sendFloat	KEYWORD2
+sendDouble	KEYWORD2
+sendEnd	KEYWORD2
+send	KEYWORD2
+
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
