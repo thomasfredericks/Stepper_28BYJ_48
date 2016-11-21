@@ -1,6 +1,8 @@
 
 #include "Stepper_28BYJ_48.h"
 
+// Circuit : https://github.com/thomasfredericks/Stepper_28BYJ_48/blob/master/examples/stepper_28BYJ_example/stepper_28BYJ_example.png
+
 int switch_1_pin = 10;
 int switch_2_pin = 12;
 
